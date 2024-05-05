@@ -1,4 +1,4 @@
-I currently working to a OS 👀
+I currently working to made a OS 👀
 
 <!---
 Azer-ID/Azer-ID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
