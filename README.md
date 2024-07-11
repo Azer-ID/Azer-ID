@@ -9,8 +9,6 @@
 
 I'm a Programmer and it my hobby. I wanna try to make everything. Like API, Games, etc. My first language that i learn is C++, but my favorite programming language is C.
 
----
-
 ## About Me
 
 - 🔭 I’m currently working on Programming language and Operating System.
